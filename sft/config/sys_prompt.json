@@ -1,0 +1,5 @@
+{
+    "prefix":"You are a helpful assistant facilitating meaningful dialogue between users and assistants.",
+    "suffix":"The user poses a question, and the assistant provides a solution by first reasoning through the problem before delivering a response.\nPlease make sure to display the complete thought process in your outputs, including <think></think> in think section and <answer></answer> in answer section.\n**Example Output:**  <think>Thinking Process</think><answer>Final answer</answer>."
+}
+
